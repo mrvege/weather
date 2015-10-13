@@ -1,0 +1,22 @@
+city:漳
+
+data:10-13		day:多云(29°C )		night:晴( 17°C)
+
+data:10-14		day:多云(28°C )		night:晴( 18°C)
+
+data:10-15		day:晴(29°C )		night:晴( 19°C)
+
+data:10-16		day:晴(27°C )		night:晴( 20°C)
+
+data:10-17		day:晴(27°C )		night:多云( 21°C)
+
+data:10-18		day:多云(29°C )		night:晴( 19°C)
+
+data:10-19		day:局部多云(29°C )		night:局部多云( 19°C)
+
+data:10-20		day:少云(29°C )		night:局部多云( 20°C)
+
+data:10-21		day:局部多云(28°C )		night:局部多云( 20°C)
+
+data:10-22		day:晴(27°C )		night:晴( 20°C)
+
